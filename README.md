@@ -29,7 +29,7 @@ Greetings, I'm Ishita Gupta, and my mission is to tackle real-world challenges. 
 <!-- current status -->
 ### Things that I'm currently working on: 
 * Data Structures and Algorithms 
-* Back-end Development (node.js)
+* Learning new technologies
 * Some Personal Projects 
 
    <!-- gif Image -->
